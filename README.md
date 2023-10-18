@@ -38,7 +38,7 @@ The Instacart Basket Analysis has been separated into the following folders:
 - Analysis: Contains the Visualizations used for developing insights and presenting on the final report
 - Project Management: Contains the Project Brief
 - Scripts: Holds all the Python coding involved for the entire analysis process
-- Sent to client: Contains the Final Report in Excel
+- Sent to client: Contains the Final Excel Report
 
 # Skills Demonstrated
 - **Data Cleaning**: Eliminated duplicates, rectified missing values, standardized mixed or inaccurate data types, and rectified outliers/errors.
